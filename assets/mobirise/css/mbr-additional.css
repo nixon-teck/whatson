@@ -1461,10 +1461,12 @@ a {
   transition: all 0.3s;
 }
 .cid-uXh3TikwOc .carousel-control.carousel-control-prev {
+  top: 50%; 
   left: 0;
   margin-left: 2.5rem;
 }
 .cid-uXh3TikwOc .carousel-control.carousel-control-next {
+  top: 50%; 
   right: 0;
   margin-right: 2.5rem;
 }

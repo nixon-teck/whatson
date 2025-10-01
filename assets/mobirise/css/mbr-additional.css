@@ -1399,21 +1399,6 @@ a {
   100% { transform: scale(1); }
 }
 
-/* .whatsapp-float {
-  position: fixed;
-  width: 60px;
-  height: 60px;
-  bottom: 20px;
-  right: 20px;
-  z-index: 1000;
-  animation: pulse 1.5s infinite;
-} */
-
-/* .whatsapp-float img {
-  width: 60px;
-  height: 60px;
-} */
-
 .cid-uXh3TikwOc .carousel-caption {
   bottom: 220px;
   color: white;
@@ -1451,8 +1436,8 @@ a {
 }
 .cid-uXh3TikwOc .carousel-control {
   top: 50%;
-  width: 60px;
-  height: 60px;
+  width: 55px;
+  height: 55px;
   margin-top: -1.5rem;
   font-size: 22px;
   background-color: rgba(0, 0, 0, 0.5);
@@ -1463,12 +1448,12 @@ a {
 .cid-uXh3TikwOc .carousel-control.carousel-control-prev {
   top: 50%; 
   left: 0;
-  margin-left: 2.5rem;
+  margin-left: 1.0rem;
 }
 .cid-uXh3TikwOc .carousel-control.carousel-control-next {
   top: 50%; 
   right: 0;
-  margin-right: 2.5rem;
+  margin-right: 1.0rem;
 }
 @media (max-width: 767px) {
   .cid-uXh3TikwOc .carousel-control {
